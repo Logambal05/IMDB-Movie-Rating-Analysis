@@ -4,6 +4,8 @@
 
 The dataset provided is related to IMDb Movies, and the goal is to investigate the factors that influence the success of a movie on IMDb. Success, in this context, is defined by high IMDb ratings. This analysis is crucial for movie producers, directors, and investors who aim to understand the key determinants of a movie's success and make informed decisions in their future projects.
 
+Click Here To See The Power BI Dashboard : [Click Me To View The Dashbord](https://drive.google.com/file/d/1wrNuQvmpIziQFM5A-o2bakf688LxPeNG/view?usp=drive_link)
+
 ## Analysis Ideas
 
 ### 1. Data Cleaning
